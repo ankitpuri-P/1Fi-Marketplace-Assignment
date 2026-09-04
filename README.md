@@ -1,5 +1,7 @@
 # 1Fi SDE Intern Assignment: Marketplace Feature
 
+https://github.com/user-attachments/assets/2bc1b3ae-7307-4f9b-b008-afdaa37dac29
+
 ![React Native](https://img.shields.io/badge/React_Native-Expo-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
