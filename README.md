@@ -27,11 +27,10 @@ This repository contains the implementation of the **1Fi Marketplace** feature, 
 - Git
 
 ## Project Structure
-*(Illustrative — adjust paths to match your actual repository layout.)*
 
 ```
 .
-├── main.py                   # FastAPI mock backend (product & EMI data)
+├── main.py                    # FastAPI mock backend (product & EMI data)
 ├── 1FiMarketplace/            # Expo React Native app
 │   ├── src/
 │   │   ├── components/
